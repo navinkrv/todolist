@@ -1,0 +1,48 @@
+body{
+    text-align: center;
+}
+.navbar{
+    background-color: black;
+    color: white;
+    padding:15px;
+}
+
+.container-fluid{
+    height:87vh;
+  
+}
+
+
+/* Add task section */
+
+
+input{
+    margin: 0 5px;
+}
+span{
+    background-color: black;
+    color: blanchedalmond;
+    padding: 2px 6px;
+    margin: 0 5px;
+}
+
+/* done Button  */
+
+.plain-list{
+    list-style: none;
+    font-family: serif;
+    font-size: 1.5rem;
+}
+.inline{
+    display: inline-block;
+}
+
+/* footer  */
+
+
+footer{
+    background-color: black;
+}
+h5{
+    color: white;
+}
